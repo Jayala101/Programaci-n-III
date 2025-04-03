@@ -35,5 +35,5 @@ Desarrollar un sistema de encriptación en tiempo real para la gestión de datos
 3. **Implementación:** Conectar entre Front-end y el Back-end
 4. **Pruebas**: Simulación ante un ataque malicioso
 
-##Conclusión 
+## Conclusión 
 Con este sistema se busca solventar la protección de datos sensibles que nos permite reducir riesgos, seguir las normas legales y mostrar transparencia al cliente con sus datos de manera que sea más fiable. 
